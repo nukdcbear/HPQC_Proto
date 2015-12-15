@@ -1,4 +1,4 @@
-# HP ALM Project Creatoion - Prototype
+# HP ALM Project Creation - Prototype
 
 Code created for prototyping work with a client to create new projects within HP ALM programmatically.
 
